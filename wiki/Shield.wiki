@@ -10,4 +10,4 @@ You will need
   * Comb pieces
 
 
-<img width='500' src ='https://turnonmypc.googlecode.com/svn/wiki/turnonmypc_2.png' />
+<img width='600' src ='https://turnonmypc.googlecode.com/svn/wiki/turnonmypc_2.png' />
