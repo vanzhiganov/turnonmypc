@@ -2,9 +2,9 @@
 
 You will need
 
-*  Two optocouplers 
-*  A Relay 
-*  Pieace of PCB board 
-*  Two 100 Ohms resistors
-*  Two 1K Ohms resistors
-*  Comb pieces
+  * Two optocouplers 
+  * A Relay 
+  * Pieace of PCB board 
+  * Two 100 Ohms resistors
+  * Two 1K Ohms resistors
+  * Comb pieces
