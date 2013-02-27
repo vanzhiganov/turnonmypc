@@ -1,6 +1,6 @@
 = Turn On My PC Shield =
 
-You will need:
+You will need
 
 * Two optocouplers 
 * A Relay 
@@ -8,5 +8,3 @@ You will need:
 * Two 100 Ohms resistors
 * Two 1K Ohms resistors
 * Comb pieces
-
-
