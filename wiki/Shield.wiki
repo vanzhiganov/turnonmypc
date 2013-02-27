@@ -8,3 +8,6 @@ You will need
   * Two 100 Ohms resistors
   * Two 1K Ohms resistors
   * Comb pieces
+
+
+<img src ='https://turnonmypc.googlecode.com/svn/wiki/turnonmypc_2.png' />
