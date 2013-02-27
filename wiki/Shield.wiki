@@ -9,5 +9,4 @@ You will need
   * Two 1K Ohms resistors
   * Comb pieces
 
-
 <img width='600' src ='https://turnonmypc.googlecode.com/svn/wiki/turnonmypc_2.png' />
