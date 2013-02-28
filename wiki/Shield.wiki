@@ -10,5 +10,7 @@ You will need
   * Comb pieces
 
 http://turnonmypc.googlecode.com/svn/wiki/turnonmypc_2.png
+
 https://turnonmypc.googlecode.com/svn/wiki/rmpc_1AS.jpg
+
 https://turnonmypc.googlecode.com/svn/wiki/rmpc_2AS.jpg
