@@ -1,5 +1,5 @@
 = Web Server =
 
-Do not forget to setup your home router to route specific port to the device if you going to use it from the internet.
+Do not forget to setup on your home router port forwarding if you going to use the device from the internet.
 
 http://turnonmypc.googlecode.com/svn/wiki/turnonmypc_3.png
