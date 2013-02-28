@@ -1,6 +1,5 @@
 /*
   TurnOnMyPC Web Server
-  Dmitry S. Lysenko
   lds133@gmail.com
 
  
