@@ -2,8 +2,8 @@
 
 You will need
 
-  * Two optocouplers 
-  * A Relay 
+  * Two optocouplers (4N27 or similar)
+  * A Relay (any can be operated by 5v)
   * Pieace of PCB board 
   * Two 100 Ohms resistors
   * Two 1K Ohms resistors
